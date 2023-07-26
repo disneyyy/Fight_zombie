@@ -31,4 +31,4 @@ Motivated by this game in childhood, we decided to remake this classic game in t
 ![Software7](https://github.com/disneyyy/Fight_zombie/blob/main/Introduction/17.png)  
 
 > Author: 成功大學資訊工程學系113級 鄭鈞智  
-> Last Edit Time: 2023/07/16 22:48
+> Last Edit Time: 2023/07/26 09:32
