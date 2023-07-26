@@ -15,6 +15,7 @@
 * Dot_matrix_displayer.v: Control dot matrix displayer
 ## Introduction
 ### Video Link
+https://youtu.be/ce6GXD-YYj8
 ### Motivation
 Motivated by this game in childhood, we decided to remake this classic game in this final project  
 ![Motivation](https://github.com/disneyyy/Fight_zombie/blob/main/Introduction/4.png)  
